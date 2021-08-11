@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.formgrid{
+    margin:50px 500px 50px 500px;
+}
+input{
+    width:100px;
+    height:100px;
+    color:black;
+    font-style: Bold;
+    font-size:30px;
+    background-color:lavender
+}
+.equalto, #clear{
+    width:205px;
+    height:100px;
+}
+.answertextbox{
+    width:412px;
+    background-color:darkslategray;
+    color:white;
+    font-style: Bold;
+    font-size:30px;
+}
